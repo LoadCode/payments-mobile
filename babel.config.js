@@ -14,7 +14,7 @@ module.exports = {
           '.tsx',
           '.jsx',
           '.js',
-          '.json',
+          '.json'
         ],
         alias: {
           '@app': './src/app',
@@ -23,9 +23,9 @@ module.exports = {
           '@constants': './src/app/constants',
           '@screens': './src/app/screens',
           '@interfaces': './src/interfaces',
-          '@redux': './src/redux',
-        },
-      },
-    ],
-  ],
+          '@redux': './src/redux'
+        }
+      }
+    ]
+  ]
 };
