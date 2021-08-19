@@ -20,8 +20,9 @@ module.exports = {
           '@app': './src/app',
           '@assets': './src/app/assets',
           '@components': './src/app/components',
-          '@constants': './src/app/constants',
           '@screens': './src/app/screens',
+          '@constants': './src/constants',
+          '@utils': './src/utils',
           '@interfaces': './src/interfaces',
           '@redux': './src/redux'
         }
