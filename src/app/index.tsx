@@ -99,8 +99,9 @@ const styles = StyleSheet.create({
     paddingHorizontal: 24
   },
   sectionTitle: {
+    fontFamily: 'Nunito',
     fontSize: 24,
-    fontWeight: '600'
+    // fontWeight: '600'
   },
   sectionDescription: {
     marginTop: 8,
